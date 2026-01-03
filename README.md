@@ -1,6 +1,4 @@
-<a href="https://github.com/shadowmelds">
-  <img src="https://avatars.githubusercontent.com/u/25096408?v=4" width="144" align="right" style="border-radius: 50%;" />
-</a>
+<img src="https://avatars.githubusercontent.com/u/25096408?v=4" width="144" align="right" />
 
 👋 &nbsp;你好吖 <br/> 我是😶‍🌫️meld3d
 ======
@@ -9,4 +7,4 @@
 
 **你可以在以下位置找到我**
 
-[![Bilibili](https://img.shields.io/badge/Bilibili-@你的昵称-fb7299?style=plastic&logo=bilibili)](https://space.bilibili.com/44458350)
+[![Bilibili](https://img.shields.io/badge/Bilibili-关注我-fb7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/44458350)
