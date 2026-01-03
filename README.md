@@ -1,7 +1,8 @@
+<img src="https://avatars.githubusercontent.com/u/25096408?v=4" width="100" align="right" />
+
 👋 &nbsp;你好吖 <br/> 我是😶‍🌫️meld3d
 ======
 
-<img src="https://avatars.githubusercontent.com/u/25096408?v=4" width="144" align="right" />
 
 我是一名正在学习 3D 动画的（未来的）艺术家，最喜欢做的事情是玩守望先锋！
 
