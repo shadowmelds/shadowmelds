@@ -1,6 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/25096408?v=4" width="100" align="right" />
-
-👋 &nbsp;你好吖
+👋 &nbsp;你好吖  
 ======
 
 **语言**
